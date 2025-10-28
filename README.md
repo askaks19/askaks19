@@ -2,7 +2,7 @@
 > Hey there, I'm Ayush! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student+with+Specialization+in+Artificial+Intelligence;Python+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Computer+Science+Student+with+Specialization+in+Artificial+Intelligence;Python+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
