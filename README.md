@@ -14,6 +14,8 @@
 - 📚 Always exploring new technologies and building practical solutions
 - ⚡ Fun fact: I love turning complex problems into simple, elegant code!
 
+- PS: I have endsems going on right now, ML and AI projects are gonna be uploaded soon as well :)
+
 ## 🛠️ Tech Stack
 
 ### Languages
